@@ -3,8 +3,10 @@
 #### Project Overview
 This analysis project shows sales performance of Slice Africa in the past 6 months.
 
-#### Table of Content
-- [Data Source](Data-Source)
+## Table of Content
+- [Data Source](#data-source)
+- [Data Analysis](#data-analysis)
+- [Tools](#tools)
 
 #### Data Source
 The primary data set used for this analysis is the sales_data2.csc from the coy's sales records
